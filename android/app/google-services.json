@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424944168590",
+    "firebase_url": "https://flutterandotodolist.firebaseio.com",
+    "project_id": "flutterandotodolist",
+    "storage_bucket": "flutterandotodolist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424944168590:android:223f0fe983ee0481bca3df",
+        "android_client_info": {
+          "package_name": "com.example.flutterando_todo_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424944168590-kk8obu9ose9sffv8d54scdjjme84hia0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmdag_rlVSNHKArG7ENuPXVnwpACuRqGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424944168590-kk8obu9ose9sffv8d54scdjjme84hia0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
